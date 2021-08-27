@@ -46,3 +46,5 @@
 - [【JS 逆向百例】某天下登录接口参数逆向](https://mp.weixin.qq.com/s/yQMlvddLHi_lSQAuK05HyA)：[JSRE_05](https://github.com/kuaidaili/crawler/tree/main/JSRE_05)
 - [【JS 逆向百例】某7网游登录接口参数逆向](https://mp.weixin.qq.com/s/OrDOGRECm-k7f_thL6NO1A)：[JSRE_06](https://github.com/kuaidaili/crawler/tree/main/JSRE_06)
 - [【JS 逆向百例】层层嵌套！某加速商城 RSA 加密](https://mp.weixin.qq.com/s/tvzh0tIs1N_R3Ycj8r5SMg)：[JSRE_07](https://github.com/kuaidaili/crawler/tree/main/JSRE_07)
+- [【JS 逆向百例】转变思路，少走弯路，X米加密分析](https://mp.weixin.qq.com/s/gBOTxUiq1RgOaZtdR6XRSA)：[JSRE_08](https://github.com/kuaidaili/crawler/tree/main/JSRE_08)
+- [【JS 逆向百例】元素ID定位加密位置，某麻将数据逆向](https://mp.weixin.qq.com/s/KWJLN3O2qTwqjj3ZrVo2fA)：[JSRE_09](https://github.com/kuaidaili/crawler/tree/main/JSRE_09)
