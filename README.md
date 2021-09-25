@@ -24,20 +24,6 @@
     </a>&nbsp;&nbsp;
 </div>
 <br>
-<div align="center">
-    <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
-</div>
-<br>
-<div align="center">
-    <img alt="K哥爬虫交流群" src="https://img-blog.csdnimg.cn/d3061dcc65c4486bbd075e328ae01a9c.png" ></img>
-</div>
-<!-- <div align="center">
-    <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/fad5d57123a048819be40229e83a6796.png"></img>
-</div>
-<br> -->
-<br>
-
----
 
 ❗❗❗ **声明：本仓库中所有内容仅供学习交流使用，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，在本仓库中下载的文件学习完毕之后请于 24 小时内删除！若有侵权，请联系我立即删除！**
 
@@ -52,3 +38,18 @@
 - [【JS 逆向百例】层层嵌套！某加速商城 RSA 加密](https://mp.weixin.qq.com/s/tvzh0tIs1N_R3Ycj8r5SMg)：[JSRE_07](https://github.com/kuaidaili/crawler/tree/main/JSRE_07)
 - [【JS 逆向百例】转变思路，少走弯路，X米加密分析](https://mp.weixin.qq.com/s/gBOTxUiq1RgOaZtdR6XRSA)：[JSRE_08](https://github.com/kuaidaili/crawler/tree/main/JSRE_08)
 - [【JS 逆向百例】元素ID定位加密位置，某麻将数据逆向](https://mp.weixin.qq.com/s/KWJLN3O2qTwqjj3ZrVo2fA)：[JSRE_09](https://github.com/kuaidaili/crawler/tree/main/JSRE_09)
+
+---
+
+<br>
+<div align="center">
+    <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
+</div>
+<br>
+<div align="center">
+    <img alt="K哥爬虫交流群" src="https://img-blog.csdnimg.cn/d3061dcc65c4486bbd075e328ae01a9c.png" height="550" width="700"></img>
+</div>
+<!-- <div align="center">
+    <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/fad5d57123a048819be40229e83a6796.png"></img>
+</div>
+<br> -->
