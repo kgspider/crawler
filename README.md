@@ -25,7 +25,11 @@
 </div>
 <br>
 <div align="center">
-    <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
+    <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
+</div>
+<br>
+<div align="center">
+    <img alt="K哥爬虫交流群" src="https://img-blog.csdnimg.cn/d3061dcc65c4486bbd075e328ae01a9c.png" ></img>
 </div>
 <!-- <div align="center">
     <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/fad5d57123a048819be40229e83a6796.png"></img>
