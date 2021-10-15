@@ -31,20 +31,25 @@
 
 |  文章  |  代码  |
 | ------ | ------ |
-| [【JS 逆向百例】某度翻译接口参数逆向](https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw) | [JSRE_01](https://github.com/kgepachong/crawler/tree/master/JSRE_01) |
-| [【JS 逆向百例】某道翻译接口参数逆向](https://mp.weixin.qq.com/s/p9oFqVQhHn4tlpqonAdNSQ) | [JSRE_02](https://github.com/kgepachong/crawler/tree/master/JSRE_02) |
-| [【JS 逆向百例】某市场监管平台企业数据](https://mp.weixin.qq.com/s/QmWy0zhsE0ZwEJwrfCohTA) | [JSRE_03](https://github.com/kgepachong/crawler/tree/master/JSRE_03) |
-| [【JS 逆向百例】某乐网登录接口参数逆向](https://mp.weixin.qq.com/s/1eXvxbZklEtwrkUn4iEmtQ) | [JSRE_04](https://github.com/kgepachong/crawler/tree/master/JSRE_04) |
-| [【JS 逆向百例】某天下登录接口参数逆向](https://mp.weixin.qq.com/s/yQMlvddLHi_lSQAuK05HyA) | [JSRE_05](https://github.com/kgepachong/crawler/tree/main/JSRE_05) |
-| [【JS 逆向百例】某7网游登录接口参数逆向](https://mp.weixin.qq.com/s/OrDOGRECm-k7f_thL6NO1A) | [JSRE_06](https://github.com/kgepachong/crawler/tree/main/JSRE_06) |
-| [【JS 逆向百例】层层嵌套！某加速商城 RSA 加密](https://mp.weixin.qq.com/s/tvzh0tIs1N_R3Ycj8r5SMg) | [JSRE_07](https://github.com/kgepachong/crawler/tree/main/JSRE_07) |
-| [【JS 逆向百例】转变思路，少走弯路，X米加密分析](https://mp.weixin.qq.com/s/gBOTxUiq1RgOaZtdR6XRSA) | [JSRE_08](https://github.com/kgepachong/crawler/tree/main/JSRE_08) |
-| [【JS 逆向百例】元素ID定位加密位置，某麻将数据逆向](https://mp.weixin.qq.com/s/KWJLN3O2qTwqjj3ZrVo2fA) | [JSRE_09](https://github.com/kgepachong/crawler/tree/main/JSRE_09) |
-| [【JS 逆向百例】复杂的登录过程，最新微博逆向](https://mp.weixin.qq.com/s/iwOMzACFk90PHTdH8FoA4g) | [JSRE_10](https://github.com/kgepachong/crawler/tree/main/JSRE_10) |
-| [【JS 逆向百例】无限debugger绕过，某网站互动数据逆向](https://mp.weixin.qq.com/s/iktAAarSwGXNXgNFpeAQlA) | [JSRE_11](https://github.com/kgepachong/crawler/tree/main/JSRE_11) |
-| [【JS 逆向百例】DOM事件断点调试，某商盟登录逆向](https://mp.weixin.qq.com/s/E4pzttU9DvPpCYrAydZ1Rg) | [JSRE_12](https://github.com/kgepachong/crawler/tree/main/JSRE_12) |
-| [【JS 逆向百例】XHR 断点调试，Steam 登录逆向](https://mp.weixin.qq.com/s/DPNtkF9e1pvFVa1m-DsyJw) | [JSRE_13](https://github.com/kgepachong/crawler/tree/main/JSRE_13) |
-| [【JS 逆向百例】如何跟栈调试？某 e 网通 AES 加密分析](https://mp.weixin.qq.com/s/Vj-7P99H6fK5LDUgrktCuw) | [JSRE_14](https://github.com/kgepachong/crawler/tree/main/JSRE_14) |
+| [【爬虫知识】浏览器开发者工具使用技巧总结](https://mp.weixin.qq.com/s/vR0ZPCAJMUF992chUfBNSQ)  |  \  |
+| [【爬虫知识】爬虫常见加密解密算法](https://mp.weixin.qq.com/s/4QTee0M9ukN6olgoR_LMug)  |  \  |
+| [【JS 逆向百例】百度翻译接口参数逆向](https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw) | [fanyi_baidu_com](https://github.com/kgepachong/crawler/tree/master/fanyi_baidu_com) |
+| [【JS 逆向百例】有道翻译接口参数逆向](https://mp.weixin.qq.com/s/p9oFqVQhHn4tlpqonAdNSQ) | [fanyi_youdao_com](https://github.com/kgepachong/crawler/tree/master/fanyi_youdao_com) |
+| [【JS 逆向百例】建筑市场监管平台企业数据](https://mp.weixin.qq.com/s/QmWy0zhsE0ZwEJwrfCohTA) | [jzsc_mohurd_gov_cn](https://github.com/kgepachong/crawler/tree/master/jzsc_mohurd_gov_cn) |
+| [【JS 逆向百例】当乐网登录接口参数逆向](https://mp.weixin.qq.com/s/1eXvxbZklEtwrkUn4iEmtQ) | [oauth_d_cn](https://github.com/kgepachong/crawler/tree/master/oauth_d_cn) |
+| [【JS 逆向百例】房天下登录接口参数逆向](https://mp.weixin.qq.com/s/yQMlvddLHi_lSQAuK05HyA) | [passport_fang_com](https://github.com/kgepachong/crawler/tree/main/passport_fang_com) |
+| [【JS 逆向百例】某7网游登录接口参数逆向](https://mp.weixin.qq.com/s/OrDOGRECm-k7f_thL6NO1A) | [www_37_com](https://github.com/kgepachong/crawler/tree/main/www_37_com) |
+| [【JS 逆向百例】层层嵌套！某加速商城 RSA 加密](https://mp.weixin.qq.com/s/tvzh0tIs1N_R3Ycj8r5SMg) | [www_15yunmall_com](https://github.com/kgepachong/crawler/tree/main/www_15yunmall_com) |
+| [【JS 逆向百例】转变思路，少走弯路，X米加密分析](https://mp.weixin.qq.com/s/gBOTxUiq1RgOaZtdR6XRSA) | [account_xiaomi_com](https://github.com/kgepachong/crawler/tree/main/account_xiaomi_com) |
+| [【JS 逆向百例】元素ID定位加密位置，某麻将数据逆向](https://mp.weixin.qq.com/s/KWJLN3O2qTwqjj3ZrVo2fA) | [tenhou_net](https://github.com/kgepachong/crawler/tree/main/tenhou_net) |
+| [【JS 逆向百例】复杂的登录过程，最新微博逆向](https://mp.weixin.qq.com/s/iwOMzACFk90PHTdH8FoA4g) | [weibo_com](https://github.com/kgepachong/crawler/tree/main/weibo_com) |
+| [【JS 逆向百例】无限debugger绕过，某网站互动数据逆向](https://mp.weixin.qq.com/s/iktAAarSwGXNXgNFpeAQlA) | [zwfw_san-he_gov_cn](https://github.com/kgepachong/crawler/tree/main/zwfw_san-he_gov_cn) |
+| [【JS 逆向百例】DOM事件断点调试，某商盟登录逆向](https://mp.weixin.qq.com/s/E4pzttU9DvPpCYrAydZ1Rg) | [www_xinshangmeng_com](https://github.com/kgepachong/crawler/tree/main/www_xinshangmeng_com) |
+| [【JS 逆向百例】XHR 断点调试，Steam 登录逆向](https://mp.weixin.qq.com/s/DPNtkF9e1pvFVa1m-DsyJw) | [store_steampowered_com](https://github.com/kgepachong/crawler/tree/main/store_steampowered_com) |
+| [【JS 逆向百例】如何跟栈调试？某 e 网通 AES 加密分析](https://mp.weixin.qq.com/s/Vj-7P99H6fK5LDUgrktCuw) | [web_ewt360_com](https://github.com/kgepachong/crawler/tree/main/web_ewt360_com) |
+| [JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！](https://mp.weixin.qq.com/s/IYFyjVrVkHtUdCzn9arkJQ)  |  \  |
+| [【JS 逆向百例】Fiddler 插件 Hook 实战，某创帮登录逆向](https://mp.weixin.qq.com/s/H4oQvqZmWS4af1VF1nAzkA)  |  [m_wcbchina_com](https://github.com/kgepachong/crawler/tree/main/m_wcbchina_com)  |
+| [【JS 逆向百例】浏览器插件 Hook 实战，亚航加密参数分析](https://mp.weixin.qq.com/s/MaDrCJdJCQKSnXWgCR0c0w)  |  [www_airasia_com](https://github.com/kgepachong/crawler/tree/main/www_airasia_com)  |
 
 ---
 
