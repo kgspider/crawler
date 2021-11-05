@@ -50,6 +50,10 @@
 | [JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！](https://mp.weixin.qq.com/s/IYFyjVrVkHtUdCzn9arkJQ)  |  \  |
 | [【JS 逆向百例】Fiddler 插件 Hook 实战，某创帮登录逆向](https://mp.weixin.qq.com/s/H4oQvqZmWS4af1VF1nAzkA)  |  [m_wcbchina_com](https://github.com/kgepachong/crawler/tree/main/m_wcbchina_com)  |
 | [【JS 逆向百例】浏览器插件 Hook 实战，亚航加密参数分析](https://mp.weixin.qq.com/s/MaDrCJdJCQKSnXWgCR0c0w)  |  [www_airasia_com](https://github.com/kgepachong/crawler/tree/main/www_airasia_com)  |
+| [爬虫逆向基础，理解 JavaScript 模块化编程 webpack](https://mp.weixin.qq.com/s/_-9Ib6H51rWGK60X_g2n1g)  |  \  |
+| [当爬虫工程师遇到CTF丨B站1024安全攻防题解](https://mp.weixin.qq.com/s/SKrlslSLwE8FFXdQyTprUg)  |  \  |
+| [【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密](https://mp.weixin.qq.com/s/LCnpt37NjiTtBYToqNdQaA)  |  [www_gm99_com](https://github.com/kgepachong/crawler/tree/main/www_gm99_com)  |
+| [【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战](https://mp.weixin.qq.com/s/3PgJTsb3moYES0_UJ9Lwkw)  |  [www_kuwo_cn](https://github.com/kgepachong/crawler/tree/main/www_kuwo_cn)  |
 
 ---
 
