@@ -54,6 +54,8 @@
 | [当爬虫工程师遇到CTF丨B站1024安全攻防题解](https://mp.weixin.qq.com/s/SKrlslSLwE8FFXdQyTprUg)  |  \  |
 | [【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密](https://mp.weixin.qq.com/s/LCnpt37NjiTtBYToqNdQaA)  |  [www_gm99_com](https://github.com/kgepachong/crawler/tree/main/www_gm99_com)  |
 | [【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战](https://mp.weixin.qq.com/s/3PgJTsb3moYES0_UJ9Lwkw)  |  [www_kuwo_cn](https://github.com/kgepachong/crawler/tree/main/www_kuwo_cn)  |
+| [爬虫逆向基础，认识 SM1-SM9、ZUC 国密算法](https://mp.weixin.qq.com/s/IsoXn_jZI6YdqC7uXVDYiQ)  |  \  |
+| [【JS 逆向百例】医保局 SM2+SM4 国产加密算法实战](https://mp.weixin.qq.com/s/hs0Mz-2GmyOMAdWB22fG5w)  |  [fuwu_nhsa_gov_cn](https://github.com/kgepachong/crawler/tree/main/fuwu_nhsa_gov_cn)  |
 
 ---
 
