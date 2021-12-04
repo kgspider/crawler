@@ -24,6 +24,10 @@
     </a>&nbsp;&nbsp;
 </div>
 <br>
+<div align="center">
+    <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
+</div>
+<br>
 
 ❗❗❗ **声明：本仓库中所有内容仅供学习交流使用，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，在本仓库中下载的文件学习完毕之后请于 24 小时内删除！若有侵权，请联系我立即删除！**
 
@@ -56,13 +60,14 @@
 | [【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战](https://mp.weixin.qq.com/s/3PgJTsb3moYES0_UJ9Lwkw)  |  [www_kuwo_cn](https://github.com/kgepachong/crawler/tree/main/www_kuwo_cn)  |
 | [爬虫逆向基础，认识 SM1-SM9、ZUC 国密算法](https://mp.weixin.qq.com/s/IsoXn_jZI6YdqC7uXVDYiQ)  |  \  |
 | [【JS 逆向百例】医保局 SM2+SM4 国产加密算法实战](https://mp.weixin.qq.com/s/hs0Mz-2GmyOMAdWB22fG5w)  |  [fuwu_nhsa_gov_cn](https://github.com/kgepachong/crawler/tree/main/fuwu_nhsa_gov_cn)  |
-
+| [【JS 逆向百例】某易支付密码 MD5+AES 加密分析](https://mp.weixin.qq.com/s/ddA-yNmpAKJPZTYH4gLB8g)    |  [epay_163_com](https://github.com/kgepachong/crawler/tree/main/epay_163_com)          |
+| [【JS 逆向百例】cnki 学术翻译 AES 加密分析](https://mp.weixin.qq.com/s/7DpFHJtr1VCHnPjTvWwO_Q)    |  [dict_cnki_net](https://github.com/kgepachong/crawler/tree/main/dict_cnki_net)          |
+| [【JS 逆向百例】Ether Rock 空投接口 AES256 加密分析](https://mp.weixin.qq.com/s/XVOr3iJvKlUWNHjNfLwu_A)    |  [etherrock_ne](https://github.com/kgepachong/crawler/tree/main/etherrock_ne)   |
+| [【JS 逆向百例】你没见过的社会主义核心价值观加密](https://mp.weixin.qq.com/s/jaWZ4dsMidX_8kjRCcDzXQ)    |  [www_appmiu_com](https://github.com/kgepachong/crawler/tree/main/www_appmiu_com)          |
+| [【JS 逆向百例】反混淆入门，某鹏教育 JS 混淆还原](https://mp.weixin.qq.com/s/fMSCWfWXz4IiF2i7MHAKwQ)    |  [learn_open_com_cn](https://github.com/kgepachong/crawler/tree/main/learn_open_com_cn)    |
+| [【JS 逆向百例】W店UA，OB反混淆，抓包替换CORS跨域错误分析](https://mp.weixin.qq.com/s/TqNLdM5cCRpAw7cOG3Dn7g)    |  [d_weidian_com](https://github.com/kgepachong/crawler/tree/main/d_weidian_com)   |
 ---
 
-<br>
-<div align="center">
-    <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
-</div>
 <br>
 <div align="center">
     <img alt="K哥爬虫交流群" src="https://img-blog.csdnimg.cn/d3061dcc65c4486bbd075e328ae01a9c.png" height="550" width="700"></img>
