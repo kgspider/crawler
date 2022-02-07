@@ -74,6 +74,8 @@
 | [【JS 逆向百例】网洛者反爬练习平台第五题：控制台反调试](https://mp.weixin.qq.com/s/kpMG4XdDRXeNFydd_pYghw)    |  \   |
 | [【JS 逆向百例】网洛者反爬练习平台第六题：JS 加密，环境模拟检测](https://mp.weixin.qq.com/s/8k7Ys13P6q8cb1a6kOnn1w)    |  [spider_wangluozhe_com_challenge_6](https://github.com/kgepachong/crawler/tree/main/spider_wangluozhe_com_challenge_6)   |
 | [【JS 逆向百例】X球投资者社区 cookie 参数 acw_sc__v2 加密分析](https://mp.weixin.qq.com/s/-kgcz6k8krM0pcHYqzKf-g)    |  [xueqiu_com](https://github.com/kgepachong/crawler/tree/main/xueqiu_com)   |
+| [【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用](https://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw)    |  [max_pedata_cn](https://github.com/kgepachong/crawler/tree/main/max_pedata_cn)   |
+| [【JS 逆向百例】HN政务服务网登录逆向，验证码形同虚设](https://mp.weixin.qq.com/s/LTMvwrT-UFfH39rRsleyQA)    |  [www_hnzwfw_gov_cn](https://github.com/kgepachong/crawler/tree/main/www_hnzwfw_gov_cn)   |
 ---
 
 <br>
