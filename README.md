@@ -77,6 +77,10 @@
 | [【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用](https://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw)    |  [max_pedata_cn](https://github.com/kgepachong/crawler/tree/main/max_pedata_cn)   |
 | [某空气质量监测平台无限 debugger 以及数据动态加密分析](https://mp.weixin.qq.com/s/ithWRqLCIzAi-CKiD6mMdg)    |  \   |
 | [【JS 逆向百例】HN政务服务网登录逆向，验证码形同虚设](https://mp.weixin.qq.com/s/LTMvwrT-UFfH39rRsleyQA)    |  [www_hnzwfw_gov_cn](https://github.com/kgepachong/crawler/tree/main/www_hnzwfw_gov_cn)   |
+| [【JS 逆向百例】吾爱破解2022春节解题领红包之番外篇 Web 中级题解](https://mp.weixin.qq.com/s/Hb7bgHoIW6zBNOMBqiWPaQ)    |  \  |
+| [RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！](https://mp.weixin.qq.com/s/9uKho4LY5fbrnHdJiPZ3KA)    |  \  |
+| [深度剖析 JA3 指纹及突破](https://mp.weixin.qq.com/s/TlUhLCBc1CKhiVRNHEIdmw)    |  \  |
+| [【JS 逆向百例】拉勾网爬虫，traceparent、__lg_stoken__、X-S-HEADER 等参数分析](https://mp.weixin.qq.com/s/b8yRLCb0SFhRsrfwZaCEjQ)    |  [www_lagou_com](https://github.com/kgepachong/crawler/tree/main/www_lagou_com)  |
 ---
 
 <br>
