@@ -1,9 +1,6 @@
 <h1 align="center">K 哥爬虫代码分享</h1>
 <br>
 <div align="center">
-    <a href="https://www.kuaidaili.com/">
-        <img alt="快代理" src="https://img.shields.io/static/v1?label=%E5%BF%AB%E4%BB%A3%E7%90%86&message=%20&color=%231E80FF&logo=KaiOS&style=flat-square&logoColor=white">
-    </a>&nbsp;&nbsp;
     <a href="https://juejin.cn/user/950457502012974">
         <img alt="掘金" src="https://img.shields.io/static/v1?label=%E6%8E%98%E9%87%91&message=%20&color=%23FBBC05&logo=jQuery&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
