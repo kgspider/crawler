@@ -70,6 +70,7 @@
 | [【JS 逆向百例】网洛者反爬练习平台第四题：JSFuck 加密](https://mp.weixin.qq.com/s/ddNNxTx66-tg55Vmzo-wJQ)    |  [spider_wangluozhe_com_challenge_4](https://github.com/kgepachong/crawler/tree/main/spider_wangluozhe_com_challenge_4)   |
 | [【JS 逆向百例】网洛者反爬练习平台第五题：控制台反调试](https://mp.weixin.qq.com/s/kpMG4XdDRXeNFydd_pYghw)    |  \   |
 | [【JS 逆向百例】网洛者反爬练习平台第六题：JS 加密，环境模拟检测](https://mp.weixin.qq.com/s/8k7Ys13P6q8cb1a6kOnn1w)    |  [spider_wangluozhe_com_challenge_6](https://github.com/kgepachong/crawler/tree/main/spider_wangluozhe_com_challenge_6)   |
+| [【JS 逆向百例】网洛者反爬练习平台第七题：JSVMPZL 初体验](https://mp.weixin.qq.com/s/GyHomcfX_G8DbJLKAjpU9g)    |  \  |
 | [【JS 逆向百例】X球投资者社区 cookie 参数 acw_sc__v2 加密分析](https://mp.weixin.qq.com/s/-kgcz6k8krM0pcHYqzKf-g)    |  [xueqiu_com](https://github.com/kgepachong/crawler/tree/main/xueqiu_com)   |
 | [【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用](https://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw)    |  [max_pedata_cn](https://github.com/kgepachong/crawler/tree/main/max_pedata_cn)   |
 | [某空气质量监测平台无限 debugger 以及数据动态加密分析](https://mp.weixin.qq.com/s/ithWRqLCIzAi-CKiD6mMdg)    |  \   |
@@ -78,6 +79,8 @@
 | [RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！](https://mp.weixin.qq.com/s/9uKho4LY5fbrnHdJiPZ3KA)    |  \  |
 | [深度剖析 JA3 指纹及突破](https://mp.weixin.qq.com/s/TlUhLCBc1CKhiVRNHEIdmw)    |  \  |
 | [【JS 逆向百例】拉勾网爬虫，traceparent、\_\_lg_stoken\_\_、X-S-HEADER 等参数分析](https://mp.weixin.qq.com/s/b8yRLCb0SFhRsrfwZaCEjQ)    |  [www_lagou_com](https://github.com/kgepachong/crawler/tree/main/www_lagou_com)  |
+| [逆向进阶，利用 AST 技术还原 JavaScript 混淆代码](https://mp.weixin.qq.com/s/fIbPuNMs5FRADJE5MOZXgA)    |  \  |
+| [【JS 逆向百例】AST 脱混淆实战，某 ICP 备案号查询接口 jsjiami v6 分析](https://mp.weixin.qq.com/s/YuP8oC1Do9x9wdk-I-GCeQ)    |  [icp_chinaz_com](https://github.com/kgepachong/crawler/tree/main/icp_chinaz_com)  |
 ---
 
 <br>
