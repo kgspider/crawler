@@ -39,4 +39,4 @@ function Public(t) {
 }
 
 
-//console.log(c('ZBGG'))
+//console.log(Public('ZBGG'))
