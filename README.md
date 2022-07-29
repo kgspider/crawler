@@ -82,7 +82,7 @@
 | [逆向进阶，利用 AST 技术还原 JavaScript 混淆代码](https://mp.weixin.qq.com/s/fIbPuNMs5FRADJE5MOZXgA)    |  \  |
 | [【JS 逆向百例】AST 脱混淆实战，某 ICP 备案号查询接口 jsjiami v6 分析](https://mp.weixin.qq.com/s/YuP8oC1Do9x9wdk-I-GCeQ)    |  [icp_chinaz_com](https://github.com/kgepachong/crawler/tree/main/icp_chinaz_com)  |
 | [人均瑞数系列，瑞数 4 代 JS 逆向分析](https://mp.weixin.qq.com/s/0uzPRiPdSargFlDM-TwAWw) | \ |
-| 【JS 逆向百例】某公共资源交易网，公告 URL 参数逆向分析 | [ggzy_jcs_gov_cn](https://github.com/kgepachong/crawler/tree/main/ggzy_jcs_gov_cn) |
+| [【JS 逆向百例】某公共资源交易网，公告 URL 参数逆向分析](https://mp.weixin.qq.com/s/mec3zlTj5-rGRD1vfKrDBg) | [ggzy_jcs_gov_cn](https://github.com/kgepachong/crawler/tree/main/ggzy_jcs_gov_cn) |
 ---
 
 <br>
