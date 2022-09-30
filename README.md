@@ -28,6 +28,8 @@
 
 ❗❗❗ **声明：本仓库中所有内容仅供学习交流使用，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，在本仓库中下载的文件学习完毕之后请于 24 小时内删除！若有侵权，请联系我立即删除！**
 
+> ⭐⭐⭐ [**欢迎观看 K 哥爬虫小助理 bilibili 视频**](hhttps://space.bilibili.com/1622879192/?spm_id_from=333.999.0.0)
+
 ---
 
 |  文章  |  代码  |
@@ -83,6 +85,19 @@
 | [【JS 逆向百例】AST 脱混淆实战，某 ICP 备案号查询接口 jsjiami v6 分析](https://mp.weixin.qq.com/s/YuP8oC1Do9x9wdk-I-GCeQ)    |  [icp_chinaz_com](https://github.com/kgepachong/crawler/tree/main/icp_chinaz_com)  |
 | [人均瑞数系列，瑞数 4 代 JS 逆向分析](https://mp.weixin.qq.com/s/0uzPRiPdSargFlDM-TwAWw) | \ |
 | [【JS 逆向百例】某公共资源交易网，公告 URL 参数逆向分析](https://mp.weixin.qq.com/s/mec3zlTj5-rGRD1vfKrDBg) | [ggzy_jcs_gov_cn](https://github.com/kgepachong/crawler/tree/main/ggzy_jcs_gov_cn) |
+| [【JS 逆向百例】某网站加速乐 Cookie 混淆逆向详解](https://mp.weixin.qq.com/s/5N0Kp35XGJAuJSiIyLQt1g) | [mps_gov_cn](https://github.com/kgepachong/crawler/tree/main/mps_gov_cn) |
+| [百度指数 Cipher-Text、百度翻译 Acs-Token 逆向分析](https://mp.weixin.qq.com/s/upHnjYho6qTQlmupf-bjww) | [fanyi_baidu_com](https://github.com/kgepachong/crawler/tree/main/fanyi_baidu_com) |
+| [人均瑞数系列，瑞数 5 代 JS 逆向分析](https://mp.weixin.qq.com/s/Li88GVe49Q4DBbq3ti3YlA) | \ |
+| [【APP 逆向百例】Frida 初体验，root 检测与加密字符串定位](https://mp.weixin.qq.com/s/WfvTA9MJh-NS86LYDVTBzg) | [uncrackable_level1](https://github.com/kgepachong/crawler/tree/main/uncrackable_level1) |
+| [【JS 逆向百例】猿人学系列 web 比赛第五题：js 混淆 - 乱码增强，详细剖析](https://mp.weixin.qq.com/s/RX2jGH2OBdXVvYtynqxoWw) | [yrx_5](https://github.com/kgepachong/crawler/tree/main/yrx_5) |
+**K 哥爬虫普法专栏**
+
+| 文章                                                         |
+| ------------------------------------------------------------ |
+| [【k哥爬虫普法】程序员183并发爬取官方网站，直接获刑3年？](https://mp.weixin.qq.com/s/DUWO3GBd0u0MFcyvrN1pRQ) |
+| [【k哥爬虫普法】Python程序员爬取视频资源13万部，一分钱没挣，获刑2年！](https://mp.weixin.qq.com/s/OgzLbxXFhDPV8JX1NDbtIw) |
+| [【k哥爬虫普法】爬虫第一案，侵犯个人隐私，“入侵”短视频服务器！](https://mp.weixin.qq.com/s/cGBEEkHLTklz9sxiFe8Ivw) |
+
 ---
 
 <br>
