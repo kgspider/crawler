@@ -33,8 +33,8 @@
 
 ---
 
-|  K 哥爬虫逆向专栏文章  |  代码  |
-| ------ | ------ |
+|    |  代码  |
+| :----- | ------ |
 | [【爬虫知识】浏览器开发者工具使用技巧总结](https://mp.weixin.qq.com/s/vR0ZPCAJMUF992chUfBNSQ)  |  \  |
 | [【爬虫知识】爬虫常见加密解密算法](https://mp.weixin.qq.com/s/4QTee0M9ukN6olgoR_LMug)  |  \  |
 | [【JS 逆向百例】百度翻译接口参数逆向](https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw) | [fanyi_baidu_com](https://github.com/kgepachong/crawler/tree/master/fanyi_baidu_com) |
