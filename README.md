@@ -87,6 +87,7 @@
 | [人均瑞数系列，瑞数 4 代 JS 逆向分析](https://mp.weixin.qq.com/s/0uzPRiPdSargFlDM-TwAWw) | \ |
 | [【JS 逆向百例】某公共资源交易网，公告 URL 参数逆向分析](https://mp.weixin.qq.com/s/mec3zlTj5-rGRD1vfKrDBg) | [ggzy_jcs_gov_cn](https://github.com/kgepachong/crawler/tree/main/ggzy_jcs_gov_cn) |
 | [【JS 逆向百例】某网站加速乐 Cookie 混淆逆向详解](https://mp.weixin.qq.com/s/5N0Kp35XGJAuJSiIyLQt1g) | [mps_gov_cn](https://github.com/kgepachong/crawler/tree/main/mps_gov_cn) |
+| [JS逆向丨某行业大佬对坑风控的一些经验总结](https://mp.weixin.qq.com/s/hD5sBRQ1kmfnG7Yw12iZNg) | \ |
 | [百度指数 Cipher-Text、百度翻译 Acs-Token 逆向分析](https://mp.weixin.qq.com/s/upHnjYho6qTQlmupf-bjww) | [fanyi_baidu_com](https://github.com/kgepachong/crawler/tree/main/fanyi_baidu_com) |
 | [人均瑞数系列，瑞数 5 代 JS 逆向分析](https://mp.weixin.qq.com/s/Li88GVe49Q4DBbq3ti3YlA) | \ |
 | [【APP 逆向百例】Frida 初体验，root 检测与加密字符串定位](https://mp.weixin.qq.com/s/WfvTA9MJh-NS86LYDVTBzg) | [uncrackable_level1](https://github.com/kgepachong/crawler/tree/main/uncrackable_level1) |
