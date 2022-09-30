@@ -33,7 +33,7 @@
 
 ---
 
-|    |  代码  |
+|  K 哥爬虫逆向专栏文章  |  代码  |
 | :----- | ------ |
 | [【爬虫知识】浏览器开发者工具使用技巧总结](https://mp.weixin.qq.com/s/vR0ZPCAJMUF992chUfBNSQ)  |  \  |
 | [【爬虫知识】爬虫常见加密解密算法](https://mp.weixin.qq.com/s/4QTee0M9ukN6olgoR_LMug)  |  \  |
