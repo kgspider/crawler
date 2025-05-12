@@ -30,7 +30,7 @@
 
 > ⭐ [ K 哥爬虫 bilibili 视频，小助理手把手带你学逆向，欢迎点击本链接观看哦 ~](https://space.bilibili.com/1622879192/?spm_id_from=333.999.0.0)
 > 
-> 🔗[【IPWO】免费住宅代理测试，90M+海外纯净IP-高效爬虫-无限并发-高匿稳定~](https://www.ipwo.net/?ref=kgpc)
+> 🔗[【IPWO全球住宅代理】免费住宅代理测试，90M+海外纯净IP-高效爬虫-无限并发-高匿稳定~](https://www.ipwo.net/?ref=kgpc)
 
 ---
 
